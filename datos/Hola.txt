@@ -1,3 +1,0 @@
-En este ejemplo se muestra cómo la falta de sincronización hace que el uso de un entero compartido lleve a resultados erróneos.
-
-Pruebe a añadir sincronización y a modificar el número a contar. Intente dar una explicación de los resultados.
